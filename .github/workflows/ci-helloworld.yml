@@ -3,7 +3,7 @@ name: CI-HelloWorld
 on:
   push:
     branches:
-      - main
+      - branch
   workflow_dispatch:
 
 jobs:
